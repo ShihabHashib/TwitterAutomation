@@ -18,7 +18,7 @@ This is a Twitter bot created in Node.js that automates various tasks on Twitter
 ## Usage
 
 1. Clone the repository.
-2. Create a `.env` file with your Twitter API credentials (as described in the `.env` section).
+2. Create a `.env` file with your Twitter API credentials.
 3. Install dependencies with `npm install`.
 4. Run the bot with `node main.js`.
 
