@@ -7,7 +7,7 @@ This is a Twitter bot created in Node.js that automates various tasks on Twitter
 - **Post Content**: The bot posts text-only tweets at regular intervals.
 - **Send Follow Requests**: It sends follow requests to specific users periodically from the given list.
 - **Send Direct Messages**: This bot sends user-defined direct messages to new followers.
-- **UnFollow Non Follower**: Unfollow the users who don't follow back.
+- **UnFollow Non Follower**: Unfollow the user who doesn't follow back.
 
 ## Requirements
 
